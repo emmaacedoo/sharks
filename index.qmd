@@ -1,7 +1,12 @@
+
 ---
 title: "Home"
 ---
 
-# Shark Attacks
+# Shark Attacks: Are Sharks Really That Dangerous?
 
-Welcome to my Shark Attacks website!
+Sharks have lived in our oceans for millions of years, but many people are still very afraid of them. The Global Shark Attack File (GSAF) is a database that collects information about shark incidents around the world. By looking at this data, we can better understand how often attacks happen and where they occur.
+
+Even though shark attacks can be dangerous, they are much less common than many people think. Movies and news stories often make sharks seem more dangerous than they really are. This project uses real data to explore shark attacks and help us understand the risks.
+
+In the **Map** section, you can see which countries have reported the most shark attacks. In the **Trends** section, you can explore how attacks have changed over time and compare fatal and non-fatal attacks across different activities. You can visit both pages using the navigation bar at the top of the website.
