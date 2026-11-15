@@ -8,7 +8,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: map.qmd
+        text: Map
 
 format:
   html:
     toc: true
+
+execute:
+  echo: false
