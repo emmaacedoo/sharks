@@ -1,0 +1,7 @@
+---
+title: "Home"
+---
+
+# Shark Attacks
+
+Welcome to my Shark Attacks website!
